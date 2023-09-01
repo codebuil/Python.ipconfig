@@ -1,2 +1,2 @@
-# Python.ping
-Python code to ping a ip
+# Python.ipconfig
+Python get current ip 
